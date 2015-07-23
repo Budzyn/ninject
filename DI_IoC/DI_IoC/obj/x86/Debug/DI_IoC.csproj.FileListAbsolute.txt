@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\DI_IoC\DI_IoC\bin\Debug\DI_IoC.pdb
+C:\Users\admin\Desktop\DI_IoC\DI_IoC\bin\Debug\Ninject.dll
+C:\Users\admin\Desktop\DI_IoC\DI_IoC\bin\Debug\Ninject.xml
+C:\Users\admin\Desktop\DI_IoC\DI_IoC\obj\x86\Debug\DI_IoC.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\DI_IoC\DI_IoC\obj\x86\Debug\DI_IoC.exe
+C:\Users\admin\Desktop\DI_IoC\DI_IoC\obj\x86\Debug\DI_IoC.pdb
+C:\Users\admin\Desktop\BSA-Git-master (3)\BSA-Git-master\DI_IoC\DI_IoC\obj\x86\Debug\DI_IoC.exe
+C:\Users\admin\Desktop\BSA-Git-master (3)\BSA-Git-master\DI_IoC\DI_IoC\obj\x86\Debug\DI_IoC.pdb
+C:\Users\admin\Desktop\BSA-Git-master (3)\BSA-Git-master\DI_IoC\DI_IoC\bin\Debug\DI_IoC.pdb
+C:\Users\admin\Desktop\BSA-Git-master (3)\BSA-Git-master\DI_IoC\DI_IoC\bin\Debug\Ninject.xml
+C:\Users\admin\Desktop\BSA-Git-master (3)\BSA-Git-master\DI_IoC\DI_IoC\obj\x86\Debug\DI_IoC.csprojResolveAssemblyReference.cache
